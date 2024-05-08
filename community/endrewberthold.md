@@ -7,7 +7,6 @@
         from: 'Recife, PE, Brazil';
         profession: 'IT Support Student';
         email: 'endrew.berthold@gmail.com';
-        curriculum: [linkedin](https://www.linkedin.com/in/endrew-berthold-9a26b8254/);
         contato: '(51) 99548-6650';
         description {
             myProfile: 'Olá jovem! Me chamo Endrew Berthold, também chamado de Endo ou Berthold,
@@ -22,8 +21,8 @@
             }
         }
             myObjective: 'Me especializar na área de QA, estando na linha de frente liderando projetos.
-             Para isso, o estudo de tecnologias e aprimoramento de soft skills são de extrema importancia,
-             pois um bom lider precisa ser confiavel as pessoas a sua volta'
+                Para isso, o estudo de tecnologias e aprimoramento de soft skills são de extrema importancia,
+                pois um bom lider precisa ser confiavel as pessoas a sua volta'
     }
     skills {
         language;
